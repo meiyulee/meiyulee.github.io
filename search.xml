@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>About Me</title>
+    <url>/about-me/</url>
+    <content><![CDATA[<blockquote>
+<p>This is about my experience. I hope to let everyone know me better.</p>
+</blockquote>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>At the beginning of my teaching and research stage, I began to apply economic theories to the phenomena of financial market and industrial structure. Until 2012, I met the research bottleneck and returned to basic research. The first difficulty in the research is the test method of the Durbin-Watson statistic, which I have always doubted is different from other test statistics. This is also a problem that has always existed in financial data.</p>
+<p>Through the simulation of the probability distribution simulator and the deconstruction of Durbin-Watson statistic, I found that this method can make the economic models as a “real” random and dynamic result, and then I published several papers on the random and dynamic game theory. Of course, this is not enough to solve the economic and financial phenomena that I want to know. I need precise modeling techniques, because economic models need to find mathematical models. After 2016, the whole research method would be completed step by step. This research method includes knowledge and technology of data simulation, probability model, statistical model, estimation model and variable transformation. This convinced me that the data-driven models can be found by the accurately estimation, and can also be generated the simulated data to verify the exaction of the theoritical or data model.</p>
+<p>I have the copyright of all the above knowledge and technology.</p>
+<p>You can learn relevant knowledge and technology from the works by my co-authors and me. </p>
+<ul>
+<li>There are five books published. Three books are in English, and two book is in traditional Chinese. </li>
+<li>The research method used in the journal papers are also derived from the above-mentioned knowledge and techniques.</li>
+</ul>
+<h1 id="Publishions"><a href="#Publishions" class="headerlink" title="Publishions"></a>Publishions</h1><h2 id="Books"><a href="#Books" class="headerlink" title="Books"></a>Books</h2><ul>
+<li>Demythologize Durbin-Watson test statistic, 2022, <a href="https://www.amazon.com/dp/B09QT7YF1S/">Amazon.com</a>.</li>
+<li>Excel calucluating probablity distribution simulator, 2021,  <a href="https://www.amazon.com/dp/B09PFFN622">Amazon.com</a>.</li>
+<li>Statistics cannot be the tool of big data analysis: reasons and corrections, 2019, <a href="https://www.books.com.tw/products/0010844752">books.com.tw</a>. (Traditional Chinese version)</li>
+<li>The formula of big data using Statistics: all probability distributions used, 2016, <a href="https://www.researchgate.net/publication/309730839_tongjixuefenxidaziliaokudashujudegongshi---gezhongmutifenpeishiyong">e-book</a>.(Traditional Chinese version)</li>
+<li>Big Data Analysis Method, 2015, <a href="http://dx.doi.org/10.13140/RG.2.1.2041.8723">e-book</a>.</li>
+<li>Big Data Analysis Method, 2015, <a href="https://www.pubu.com.tw/ebook/51486">Pubu</a>. (Traditional Chinese version)</li>
+</ul>
+<h2 id="Journal-papers-in-the-recent-five-years"><a href="#Journal-papers-in-the-recent-five-years" class="headerlink" title="Journal papers in the recent five years"></a>Journal papers in the recent five years</h2><ul>
+<li><p>Ya-Chuan Chan, Yao-Hsin Lee*, Mei-Yu Lee, 2021, Stock Market behaviors among US, China and Taiwan, <em>Journal of Accounting, Finance &amp; Management Strategy</em>, 16(2), 109-136. (EconLit)</p>
+</li>
+<li><p>Ya-Chuan Chan, Yao-Hsin Lee, Mei-Yu Lee*, 2021, Does COVID-19 Change the Relationship among Taiwan Stock Index Futures, MSCI Morgan Taiwan Index, and Taiwan Stock Price Index?, <em>Expert Journal of Economics</em>, 9(1), 18-33. (EconLit) </p>
+</li>
+<li><p>Chih-Wen Hsiao, Ya-Chuan Chan*, Mei-Yu Lee, Hsi-Peng Lu, 2021, Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data: An Example of Taiwan Stock Index Futures before and during COVID-19, <em>Mathematics</em>, 9(21), 2719. (SCIE, IF&#x3D;2.258, SCOPUS&#x3D;2.2) </p>
+</li>
+<li><p>李玫郁、孔秀琴、呂英瑞，2020，「運用大數據分析方法估計失業人數與失業率」，台灣銀行季刊，第71卷第1期，第49-70頁。</p>
+</li>
+<li><p>李玫郁，2018，「大數據分析方法現況與可行之道 」，台灣銀行季刊，第69卷第3期，第205頁。</p>
+</li>
+<li><p>鄭貴元、李堯賢、李玫郁，2017，「對外貿易和中國崛起對台灣實質薪資型菲利浦曲線之影響分析」，育達科大學報，第45期，第1-14頁。</p>
+</li>
+<li><p>Yao-Hsien Lee, Yi-Hsien Wang and Mei-Yu Lee*, 2017, Big data analysis of foreign exchange rates among Japan, South Korea and Taiwan, <em>International Journal of Computational Economics and Econometrics</em>, 7(4), 399-410.</p>
+</li>
+<li><p>邱登裕、端木和奕、謝素真、李玫郁*，2016，「以多重彈性倒傳遞類神經模型探討台灣4G概念股股價的變動」，會計與財金研究，第9卷第1期，第51-66頁。</p>
+</li>
+<li><p>Kuei-Yuan Cheng, Yao-Hsien Lee and Mei-Yu Lee*, 2016, Price Competition between Shrink-wrap Software and Cloud Service Firms under a Stochastic Model, <em>Problems and Perspectives in Management</em>, 14(2), 272-276. (EconLit, IF &#x3D; 0.765)</p>
+</li>
+<li><p>李玫郁、李堯賢、林哲揚，2016，「國際油價與中油油品價格之大數據特徵分析」，台灣銀行季刊，67(2)，第53-78頁。 </p>
+</li>
+<li><p>Mei-Yu Lee, 2016, On the DurbinWatson Statistic Based on a Z-Test in Large Samples, <em>International Journal of Computational Economics and Econometrics</em>, 6(1), 114-121. (IF &#x3D; 0.3)</p>
+</li>
+</ul>
+<h1 id="Research-projects"><a href="#Research-projects" class="headerlink" title="Research projects"></a>Research projects</h1><blockquote>
+<p>Seek the job or cooperation from university, research center or others.</p>
+</blockquote>
+<h2 id="Central-limit-theorem-of-28-probability-distributions-using-the-probability-distribution-simulator"><a href="#Central-limit-theorem-of-28-probability-distributions-using-the-probability-distribution-simulator" class="headerlink" title="Central limit theorem of 28 probability distributions using the probability distribution simulator"></a>Central limit theorem of 28 probability distributions using the probability distribution simulator</h2><blockquote>
+<p>Some cases has been published on <a href="https://www.youtube.com/watch?v=7tbThx6Lo5s&list=PLGIquq4uoXLW1n8dU9P_NhmXrVvlU5iE2">YouTube</a>. Video is better to show the results because there are too many results for each case and this needs to exhibit the Central Limit Theorem property.</p>
+</blockquote>
+<ul>
+<li>Case 1,The population distribution~Normal distribution</li>
+<li>Case 2, The population distribution~ Uniform distribution</li>
+<li>Case 3, The population distribution ~ Shifted exponential distribution</li>
+<li>Case 4, The population distribution~ Pareto 1 distribution</li>
+<li>Case 5, The population distribution~ Arcsin distribution</li>
+<li>Case 6, The population distribution~ Bernoulli distribution (one population proportion)</li>
+<li>Case 7, The population distribution~ Rayleigh distribution</li>
+<li>Case 8, The population distribution~ Gumbel distribution</li>
+<li>Case 9, The population distribution~ Logistic distribution</li>
+<li>Case 10, The population distribution~ Weibull distribution</li>
+<li>Case 11, The population distribution ~ Pareto 2 distribution</li>
+<li>Case 12, The population distribution ~ Pareto 3 distribution</li>
+<li>Case 13, The population distribution ~ Triangular 2 distribution</li>
+<li>Case 14, The population distribution ~ Triangular 3 distribution</li>
+<li>Case 15, The population distribution ~ Log logistic distribution</li>
+<li>Case 16, The population distribution ~ Hyperbolic secant distribution</li>
+<li>Case 17, The population distribution ~ Kumaraswamy distribution</li>
+<li>Case 18, The population distribution ~ Gumbel(type 1) distribution</li>
+<li>Case 19, The population distribution ~ Gumbel(type 2) distribution</li>
+<li>Case 20, The population distribution ~ Double exponential distribution</li>
+<li>Case 21, The population distribution ~ Continuous Bernoulli distribution</li>
+<li>Case 22, The population distribution ~ Generalized logistic distribution type I</li>
+<li>Case 23, The population distribution ~ Exponential logarithmic distribution</li>
+<li>Case 24, The population distribution ~ Dagum distribution</li>
+<li>Case 25, The population distribution ~ Gompertz distribution</li>
+<li>Case 26, The population distribution ~ U quadratic distribution</li>
+<li>Case 27, The population distribution ~ Semicircle distribution</li>
+<li>Case 28, The population distribution ~ Discrete Uniform distribution</li>
+</ul>
+<h2 id="Teaching-of-Probablity-distribution-simulator"><a href="#Teaching-of-Probablity-distribution-simulator" class="headerlink" title="Teaching of Probablity distribution simulator"></a>Teaching of Probablity distribution simulator</h2><h3 id="Basic"><a href="#Basic" class="headerlink" title="Basic:"></a>Basic:</h3><ul>
+<li>Part 1: Introduce the random variable, probaiblity, probabilty distribution, sampling distribution</li>
+<li>Part 2: Simulate the probabiltiy distribution of one random variable</li>
+<li>Part 3: Simulate the probability distribution of function of one random variable (with comparsion)</li>
+</ul>
+<h3 id="Intermediate"><a href="#Intermediate" class="headerlink" title="Intermediate:"></a>Intermediate:</h3><ul>
+<li>Part 4: Simulate the probabiltiy distribution of two indepedent random variables</li>
+<li>Part 5: Simulate the probability distributoin of function of two indepedent random variables</li>
+<li>Part 6: Simulate the probability distribution of two dependent random variables</li>
+<li>Part 7: Simulate the probability distribution of function of two dependent random variables</li>
+<li>Part 8: Simulate the probabiltiy distribuition of three or more independent random variables</li>
+</ul>
+<h3 id="Advanced"><a href="#Advanced" class="headerlink" title="Advanced:"></a>Advanced:</h3><ul>
+<li>Part 9: Design probability models</li>
+<li>Part 10: Design statistic models</li>
+</ul>
+<h2 id="Economic-applications-using-the-probability-distribution-simulator"><a href="#Economic-applications-using-the-probability-distribution-simulator" class="headerlink" title="Economic applications using the probability distribution simulator"></a>Economic applications using the probability distribution simulator</h2><ul>
+<li>Demand-supply model</li>
+<li>consumer theory</li>
+<li>firm theory</li>
+<li>game theory</li>
+</ul>
+<h2 id="Accurate-data-driven-model-building"><a href="#Accurate-data-driven-model-building" class="headerlink" title="Accurate data-driven model building"></a>Accurate data-driven model building</h2><ul>
+<li>Economic data</li>
+<li>Financial data</li>
+<li>Sales data</li>
+<li>Crime data</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Central limit theorem on Rayleigh distribution</title>
+    <url>/2022-03-10-project-CLT-rayleigh/</url>
+    <content><![CDATA[<blockquote>
+<p>This is the project of Central limit theorem, Case 7: Rayleigh distribuiton.<br>Seek the coorperation to write papers. <a href="mailto:mylee0989@gmail.com">Mailing me</a>.</p>
+</blockquote>
+<span id="more"></span>
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/STO4eJokX2g" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+]]></content>
+      <categories>
+        <category>Project-Central_limit_theorem</category>
+      </categories>
+      <tags>
+        <tag>Central limit theorem</tag>
+        <tag>Probability distribuiton simulator</tag>
+        <tag>Rayleigh distribution</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fatal problem of using the public opinion polls or questionnaires</title>
+    <url>/2022-03-09-project-CLT-bernoulli-1/</url>
+    <content><![CDATA[<blockquote>
+<p>Fatal errors pierce into results of the opinion polls while set p &#x3D; 0.5 and use the property of thecentral limit theorem since (1) the approximating continuous distribution does not mean the “real” continuous distribution, (2) the minimal sample size of the central limit theorem does not be tested, but the theorem is applied, and (3) there is no test for the probability under the specific p and sample size. </p>
+</blockquote>
+<blockquote>
+<p>This post shows the evidecne at the case of p &#x3D; 0.5. Mail me to obtain more evidence of other p.<br>Seek the coorperation to write papers. <a href="mailto:mylee0989@gmail.com">Mailing me</a>.</p>
+</blockquote>
+<span id="more"></span>
+
+<p>A population proportion test for opinion polls or questionnaires is based on Bernoulli distribution. Assuming that each random sample is independently and randomly drawing from Bernoulli distribution, the sum of random samples follows Binomial distribution and the central limit theorem guarantees that the sum of random samples approximates to Normal distribution.</p>
+<p>Interval estimation is set to p &#x3D; 0.5 to calculate the standard deviation because the population proportion is unknown and there is not enough information for p. Therefore, I excerpted the outcomes of setting p&#x3D;0.5 from the complete results to show the problem of using the central limit theorem, that the Z distribution can be used if the sample size exceeds 30.</p>
+<p>In addition, gif below also shows the minimal sample size required for the central limit theorem under diffrernt population proportion. Finally, gif exhibits a probability value of p &#x3D; 0.5 under the critical value of maintaining the Z distribution for different sample sizes.</p>
+<p><img src="https://raw.githubusercontent.com/meiyulee/pic001/master/beroulli_distribution_polls.gif"></p>
+]]></content>
+      <categories>
+        <category>Project-Central_limit_theorem</category>
+      </categories>
+      <tags>
+        <tag>Central limit theorem</tag>
+        <tag>Probability distribuiton simulator</tag>
+        <tag>Bernoulli distribution</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Problem of Central limit theorem for the practices and applications</title>
+    <url>/2022-03-08-project-CLT-shortvideo/</url>
+    <content><![CDATA[<blockquote>
+<p>Summarize our project work in progress.</p>
+</blockquote>
+<blockquote>
+<p>Seek the coorperation to write papers. <a href="mailto:mylee0989@gmail.com">Mailing me</a>.</p>
+</blockquote>
+<span id="more"></span>
+
+
+<h1 id="Why-we-do-CLT-problems"><a href="#Why-we-do-CLT-problems" class="headerlink" title="Why we do - CLT problems"></a>Why we do - CLT problems</h1><p>Central limit theorem is the wide and usefull thoerem of the staitical analysis, but it has the problem in practices and applicaitions.</p>
+<ol>
+<li><p>The Z score of sample mean is not tested.</p>
+<p> 1.1. We don’t know <em>how many samples</em> can make the sampling distribuiton of the Z score of sample mean approximate to the Z distribution.</p>
+<p> 1.2. We don’t know what factors affect the sampling distribuiton of the Z score of sample mean approximat to the Z distribution.</p>
+<p> 1.3. We never display the process of the approximation of the sampling distributon to the Z distribution for non normal distribuiton.</p>
+</li>
+<li><p>Not all the distributions are testd, but the central limit theorem is applied on all distribuitons.</p>
+</li>
+<li><p>Otehrs.</p>
+</li>
+</ol>
+<h1 id="What-we-do"><a href="#What-we-do" class="headerlink" title="What we do"></a>What we do</h1><ol>
+<li><p>Generate random samples from a sepecific probability distribuiton and follow the steps to obtain the distribuiton of the sum of the random samples.</p>
+</li>
+<li><p>Confirm the factors that affect the sampling distribuiton apporximated to Normal distribuiton or the Z distribution.</p>
+</li>
+</ol>
+<h1 id="How-we-work"><a href="#How-we-work" class="headerlink" title="How we work"></a>How we work</h1><ol>
+<li><p>Based on the number generating, not on the numerical analysis (needing the function known first), find the numbers’ pattern to understand the central limit theorem and find the minimal sample size that can let the sum of the random samples or the sample mean approximate to Normal distribuiton or the Z distribuiton.</p>
+</li>
+<li><p>Use the method and technology of <strong>probability distribuiton simulator</strong> to generate numbers randomly and do the variable transformation to get the random samples summed or the sample mean. Of course, that can calculate the sample variance, standard deviation, and so on. Then rest coefficeints is not the content of this project, but is the <strong>future project</strong> that I want to do.</p>
+</li>
+<li><p>Use <strong>five methods&#x2F;processes</strong> to investigate Central limit theorem for each probability distribuiton.</p>
+</li>
+</ol>
+<h1 id="What-we-find"><a href="#What-we-find" class="headerlink" title="What we find"></a>What we find</h1><p>This is the short video to summary the work.</p>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/7tbThx6Lo5s" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+
+
+]]></content>
+      <categories>
+        <category>Project-Central_limit_theorem</category>
+      </categories>
+      <tags>
+        <tag>Central limit theorem</tag>
+        <tag>Probability distribuiton simulator</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Does COVID-19 Change the Relationship among Taiwan Stock Index Futures, MSCI Morgan Taiwan Index, and Taiwan Stock Price Index?</title>
+    <url>/2021-12-journal-paper-nonlinear/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>Does COVID-19 Change the Relationship among Taiwan Stock Index Futures, MSCI Morgan Taiwan Index, and Taiwan Stock Price Index?</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li><strong>Ya-Chuan Chan</strong>, Department of Finance, Minghsin University of Science and Technology, Taiwan</li>
+<li><strong>Yao-Hsien Lee</strong>, Department of Finance, Chung Hua University, Taiwan</li>
+<li><strong>Mei-Yu Lee</strong>, Department of Finance, Minghsin University of Science and Technology, Taiwan</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>Expert Journal of Economics (EconLit)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>This paper discusses the changes of Taiwan stock index futures’(TF) return rate before and during COVID-19, using the nonlinear regression model to compare the differences as the explanatory variables including the time variable, MSCI Morgan Taiwan index, and Taiwan stock price index (TAIEX). We find that the three kinds of return rates do not satisfy the Normal distribution assumption of regression analysis. Then we follow Wang and Lee (2019) to run nonlinear regression to find the optimal nonlinear estimators. There are three results. One is that the time variable can grab the oscillations of TF’s return rates before COVID-19 and the whole observation period. During COVID-19, the time variable did not display the oscillation effect of TF’s return rates. In contrast, MSCI Morgan Taiwan index’s return rates appeared the oscillation effect. Second, the return rates of TAIEX have invariable function form and coefficient sign. This implies that COVID-19 did not affect the positive association between the return rates of TF and TAIEX.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>COVID-19, Laplace distribution, nonlinear regression, Taiwan stock index futures (TF), Taiwan stock price index (TAIEX)</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Ya-Chuan Chan, Yao-Hsin Lee, Mei-Yu Lee, 2021, Does COVID-19 Change the Relationship among Taiwan Stock Index Futures, MSCI Morgan Taiwan Index, and Taiwan Stock Price Index?, <em>Expert Journal of Economics</em>, 9(1), 18-33 </p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p><a href="https://economics.expertjournals.com/23597704-903/">Full Text</a></p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+      <tags>
+        <tag>Nonlinear regression</tag>
+        <tag>Taiwan Stock Index Futures</tag>
+        <tag>Taiwan Stock Price Index</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Stock Market behaviors among US, China and Taiwan</title>
+    <url>/2021-12-journal-paper-stock-market-behavior/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>Stock Market behaviors among US, China and Taiwan</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li><strong>Ya-Chuan Chan</strong>, Department of Finance, Minghsin University of Science and Technology, Taiwan</li>
+<li><strong>Yao-Hsien Lee</strong>, Department of Finance, Chung Hua University, Taiwan</li>
+<li><strong>Mei-Yu Lee</strong>, Department of Finance, Minghsin University of Science and Technology, Taiwan</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>Journal of Accounting, Finance &amp; Management Strategy (EconLit)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>This paper analyzes the marketization of trading behaviors from the view of stock indexes. While the samples include the stock markets of U.S., China and Taiwan, the comparisons are difficult to measure when the stock indices inflect the specific national and investing environments. Using Z-score transformation procedures, the comparisons with the aim of investigating the population distribution show that the U.S. and China stock markets have the same marketization of the investing risk when they are from the double exponential distribution with the same variance. Evidence from the Taiwan stock market suggests that the effects of government inventions still exist and distort the marketization even though the Taiwan stock index has transformed as Z-score values.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>Z Score Transformation, Population Distribution, Stock Market Behavior, Marketization, Performance Comparison</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Ya-Chuan Chan, Yao-Hsin Lee, Mei-Yu Lee*, 2021, Stock Market behaviors among US, China and Taiwan, <em>Journal of Accounting, Finance &amp; Management Strategy</em>, 16(2), 109-136. </p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p><a href="https://www.proquest.com/openview/761540d31be309432e51edac48b14091/1?pq-origsite=gscholar&cbl=856337">link</a></p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+      <tags>
+        <tag>Z-score transformation</tag>
+        <tag>Stock Market Behavior</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data</title>
+    <url>/2021-12-journal-paper-precise-estimation/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data: An Example of Taiwan Stock Index Futures before and during COVID-19</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li><strong>Chih-Wen Hsiao</strong>, Graduate School of Management, National Taiwan University of Science and Technology, Taiwan</li>
+<li><strong>Ya-Chuan Chan</strong>, Department of Finance, Minghsin University of Science and Technology, Taiwan</li>
+<li><strong>Mei-Yu Lee</strong>, Department of Finance, Minghsin University of Science and Technology, Taiwan</li>
+<li><strong>Hsi-Peng Lu</strong>, Department of Information Management, National Taiwan University of Science and Technology, Taiwan</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>Mathematics (SCIE, IF&#x3D;2.258, SCOPUS&#x3D;2.2)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>In this paper, we provide a mathematical and statistical methodology using heteroscedastic estimation to achieve the aim of building a more precise mathematical model for complex financial data. Considering a general regression model with explanatory variables (the expected value model form) and the error term (including heteroscedasticity), the optimal expected value and heteroscedastic model forms are investigated by linear, nonlinear, curvilinear, and composition function forms, using the minimum mean-squared error criterion to show the precision of the methodology. After combining the two optimal models, the fitted values of the financial data are more precise than the linear regression model in the literature and also show the fitted model forms in the example of Taiwan stock price index futures that has three cases: (1) before COVID-19, (2) during COVID-19, and (3) the entire observation time period. The fitted mathematical models can apparently show how COVID-19 affects the return rates of Taiwan stock price index futures. Furthermore, the fitted heteroscedastic models also show how COVID-19 influences the fluctuations of the return rates of Taiwan stock price index futures. This methodology will contribute to the probability of building algorithms for computing and predicting financial data based on mathematical model form outcomes and assist model comparisons after adding new data to a database.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>Heteroscedasticity; model form selection; complex financial data</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Chih-Wen Hsiao, Ya-Chuan Chan, Mei-Yu Lee, Hsi-Peng Lu, 2021, Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data: An Example of Taiwan Stock Index Futures before and during COVID-19, <em>Mathematics</em>, 9(21), 2719. </p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p><a href="https://doi.org/10.3390/math9212719">Full Text</a></p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+      <tags>
+        <tag>Heteroscedasticity</tag>
+        <tag>Intelligent model selection</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>model building on exchange rate volatility</title>
+    <url>/2021-07-conference-paper/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>Accurate Model on Exchange Rate Volatility of Taiwan: An Approach of Intelligent Selection on Regression Models</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li>Hsien-Wen Liao, China University of Technology, R.O.C.</li>
+<li>Yi-Shin Lin, Huizhou University, P.R.C.</li>
+<li>Mei-Yu Lee, Minghsin University of Science and Technology, R.O.C.</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>This paper aims to find out the volatility of exchange rates according to running numerous mathematical models containing three parts of the estimations on the expected value, heteroscedasticity, and autocorrelation. Artificial intelligence in the estimation process determines the best model on the criterion of the minimum mean-squared-error. The main results show that the intelligent selection approach on regression models is the best tool that we can seek to solve the misspecification of the model form and get more accurate volatility of exchange rates represented by heteroscedasticity. Second, the economic stages can be classified depending on the heteroscedastic estimation of USD&#x2F;TWD. Moreover, heteroscedasticity shows that the volatilities of the appreciation at economic stages after 2015 are different from the past. In sum, heteroscedasticity in the best estimation can show more exact volatilities on the pattern and what happened in the exchange rates on different economic stages automatically.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>Intelligent selection approach, exchange rate volatility, regression model, and heteroscedasticity.</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Hsien-Wen Liao, Yi-Shin Lin, Mei-Yu Lee*, “Accurate Model on Exchange Rate Volatility of Taiwan: An Approach of Intelligent Selection on Regression Models,” The 2021 International Conference in Management Sciences and Decision Making, Taiwan: TamKang University, July 17, 2021.</p>
+]]></content>
+      <categories>
+        <category>Conference papers</category>
+      </categories>
+      <tags>
+        <tag>exchange rate volatility</tag>
+        <tag>intelligent model selection</tag>
+        <tag>Heteroscedasticity</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property</title>
+    <url>/2014-06-journal-paper/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li><strong>Mei-Yu Lee</strong>, Department of Applied Financial Management, Yuanpei University, Taiwan</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>Journal of Accounting Finance &amp; Management Strategy (ABI)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>This paper provides a basic investigation of an R-square and sum-square error (SSE) in a linear regression model with the errors following a first-order autoregressive process in which the autocorrelation coefficients are non-zero. The consideration and measurement of the model are difficult to control, thus a computer stimulation is necessary to corroborate how the R-square and SSE are affected by the autocorrelation coefficients. The evidence reveals that the R-square and SSE differ in the ranges of positive and negative autocorrelation coefficients. The results show that it would require one to verify the estimators including the R-square or SSE for testing non-zero autocorrelation coefficients.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>Autocorrelation Coefficient, First-order Autoregressive Process, R-square, Computer Simulation</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Mei-Yu Lee, 2014, The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation, <em>Journal of Accounting Finance &amp; Management Strategy</em>, 9(1), 115-132.</p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p><a href="https://www.proquest.com/docview/1628955086">link</a></p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+      <tags>
+        <tag>Autoregressive Error model</tag>
+        <tag>Autocorrelation Coefficient</tag>
+        <tag>Computer simulation</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Economic and Environmental Effects of Refill Packs</title>
+    <url>/2012-12-journal-paper/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>Economic and Environmental Effects of Refill Packs</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li><strong>Ming-Chung Chang</strong>, Department of Banking and Finance, Kainan University, No. 1 Kainan Road, Luchu, Taoyuan Country 338, Taiwan</li>
+<li><strong>Jin-Li Hu</strong>, Institute of Business and Management, National Chiao Tung University, Taiwan</li>
+<li><strong>Mei-Yu Lee</strong>, Department of Finance, Yuanpei University, Taiwan</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>Bulletin of Economic Research (SSCI)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>It is common sense that refill packs can increase the repeated use of durable goods, reduce resource waste and be conducive to environmental protection. However, their existence also has an economic effect. For instance, we find that the profit of a monopolistic firm will increase as a result of selling the refill packs when the depreciation rate of the durable good is low. In an extension of the model, we point out that there is an entrant that competes with the incumbent in relation to the composite goods and the refill packs. In order to compete in terms of the prices of the composite goods, the incumbent sells the refill packs not only to increase profit, but also to reduce the amount of waste resulting from the durable goods. As for competing in regard to the prices of the refill packs, if the cost of the composite goods is small, then the incumbent’s profit from selling the composite goods will increase. By comparing two extensions of the model, we find that the environmental effect of the price competition in regard to the refill packs is greater than the environmental effect of the price competition in relation to the composite goods.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Hu, Jin-Li, Ming-Chung Chang, and Mei-Yu Lee, 2012, Economic and Environmental Effects of Refill Packs, <em>Bulletin of Economic Research</em>, 64(4), 581-592.</p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p><a href="http://hdl.handle.net/10.1111/j.1467-8586.2010.00384.x">link</a></p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Production Mode Choice and Price Competition in the Presence of Network Effects:Shrink-Wrap via Cloud Service</title>
+    <url>/2012-01-journal-paper/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>Production Mode Choice and Price Competition in the Presence of Network Effects: Shrink-Wrap via Cloud Service</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li><strong>Mei-Yu Lee</strong>, Department of Applied Financial Management, Yuanpei University, Taiwan</li>
+<li><strong>Yao-Hsien Lee</strong>, Department of Finance, Chung Hua University, Taiwan</li>
+<li><strong>Ying-Jui Lu</strong>, Department of Leisure and Recreeation Managment, China University of Technology, Taiwan</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>Advanced Materials Research (EI)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>We investigate how firms facing different production modes of software service determine their production mode and pricing decisions in the presence of network effects. We develop a two-stage game model to examine the network effect on the choices of production mode and the strategic behavior of the firms. We find that if all firms adopt cloud service production mode, the resulting software price is higher than if they adopt shrink-wrapped production mode. We also find that network effects lower the level of market price.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>Cloud Service, Network Effects, Production Mode, Shrink-Wrap</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Mei-Yu Lee, Yao-Hsien Lee, Ying-Jui Lu, 2012, Production Mode Choice and Price Competition in The Presence of Network Effects: Shrink-wrap via Cloud Service, <em>Advanced Materials Research</em>, 542-543, 964-967. </p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p><a href="https://doi.org/10.4028/www.scientific.net/AMR.452-453.964">link</a></p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+      <tags>
+        <tag>Cloud service</tag>
+        <tag>Network effect</tag>
+        <tag>Production mode</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>擇時、四四三三法則與貝它避險策略下基金之績效分析-短期效率市場之驗證</title>
+    <url>/2011-12-journal-paper/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>擇時、四四三三法則與貝它避險策略下基金之績效分析-短期效率市場之驗證</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li>孔秀琴  中華大學財務管理學系博士後研究員</li>
+<li>李玫郁  元培科技大學財務金融系助理教授</li>
+<li>蔡永聰  中華大學經營管理研究所碩士</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>臺灣銀行季刊</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>本文採取三種方法進行境內股票型基金之績效分析，方法一，以 M1B 年增率做為擇時績效分析；方法二，利用四四三三法則選擇基金進行績效分析；方法三，則是結合擇時、四四三三法則與貝它係數避險所篩選之投資標的，分別計算並分析單筆投資與定期定額投資之績效。研究結果顯示：(1)單筆投資策略之績效明顯大於定期定額投資策略；(2)擇時績效比四四三三法則選擇基金之績效為佳；(3)利用擇時、四四三三法則與貝它係數避險投資策略作績效分析，當貝它係數≧0.8 時，單筆投資績效打敗大盤的勝率為 100%，定期定額投資績效打敗大盤的勝率為 50%；貝它係數&lt;0.8 時，單筆投資績效雖然比定期定額績效佳，但是打敗大盤的勝率只有 50%，定期定額則是 0%。整體而言，本文支持效率市場假設，只有相當少數基金績效能在固定投資期間打敗大盤績效。而能一致性打敗大盤績效的基金僅有兩支而且也僅能連續兩年。</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>四四三三法則、擇時擇股策略、貝它係數、投資績效</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>孔秀琴、李玫郁(Mei-Yu Lee)、蔡永聰，2011，「擇時、四四三三法則與貝它避險策略下基金之績效分析-短期效率市場之驗證」，臺灣銀行季刊，第62卷，第1期，第242-255頁。</p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p>[Taiwan Bank] (<a href="https://www.bot.com.tw/publications/quarterly/pages/tbb200_62.aspx">https://www.bot.com.tw/publications/quarterly/pages/tbb200_62.aspx</a>)</p>
+<p><a href="https://www.bot.com.tw/Publications/Quarterly/Documents/62_1/quarterly62_1_12.pdf">Download</a></p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>民宿客房預收訂金率之決定與經濟效率分析</title>
+    <url>/2010-06-tourism/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>民宿客房預收訂金率之決定與經濟效率分析</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li>李玫郁  元培科技大學財務金融系助理教授</li>
+<li>孔秀琴  中華大學財務管理學系助理教授</li>
+<li>楊琮泰  明新科技大學休閒事業管理系助理教授</li>
+<li>呂英瑞  中國科技大學觀光與休閒事業管理系助理教授</li>
+</ul>
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>中華管理學報</p>
+<span id="more"></span>
+
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>In this paper, we examine the effect of the difference between tourists’ lifestyle on determining the advance-payment rate in a recreation industry. We separate consumers into two groups, the weekday-type group and the weekend-type group. Two groups have different valuations about the leisure service provided by a firm. We also incorporate the tourist’s consumer’s price insensitivity into the analytic model. We find that the firm’s rate of advance-payment depends on the market share of tourist’s type, the price of leisure service, the leisure service price insensitivity, and the marginal cost of leisure service. Our welfare conclusion is that when the marginal cost of leisure service is sufficiently small (large), the advance-payment rate determined by the firm is higher (lower) than the socially optimal rate of advance-payment, this indicates that the firm’s rate of advance-payment is not (over) economic efficient. In addition, we argue that the regulation that requires the rate of advance-payment cannot higher than 30% of the first day’s guest room price would be not efficient. This is because the regulation ignores both the differences between tourist’s tourism choice types and the firm’s operating conditions.</p>
+<p>本研究主要探討遊客旅遊型態差異對民宿業者決定預收訂金率之影響效果。研究結果顯示：(1)客房預收訂金率之決定，是取決於遊客旅遊型態之市場佔有率，客房價格及其敏感度，以及客房服務之邊際預訂成本。(2)針對民宿個別旅客直接訂房定型化範本草案中，有關訂房訂金不得逾約定首日房價之30%的上限約束，因此約束未能兼顧遊客旅遊型態差異與業者經營條件，有可能是不具經濟效率。</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>Tourist’s Tourism Choice Type, the Rate of Advance-Payment, the Social Optimum Rate of Advance-Payment<br>遊客旅遊選擇型態, 預收訂金率, 社會最適預收訂金率</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>李玫郁、孔秀琴、楊琮泰、呂英瑞，2010，「民宿客房預收訂金率之決定與經濟效率分析」，中華管理學報，第11卷，第2期，第45-62頁。</p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p>[<a href="http://dx.doi.org/10.30053%2fCHJM.201006.0003]">http://dx.doi.org/10.30053%2fCHJM.201006.0003]</a> (<a href="http://dx.doi.org/10.30053%2fCHJM.201006.0003">http://dx.doi.org/10.30053%2fCHJM.201006.0003</a>)</p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>異質廠商，獨佔性競爭與貿易政策</title>
+    <url>/2009-09-international-trade/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>異質廠商，獨佔性競爭與貿易政策</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li>吳芝文  私立龍華科技大學國企系副教授</li>
+<li>李玫郁  元培科技大學財務金融系助理教授</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>經濟論文叢刊 (TSSCI)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>本文以異質廠商的獨占性競爭部份均衡模型,探討對稱二國之間的產業內貿易。全文之分析焦點在於從價關稅和進口限額二種貿易政策之均等性分析。研究發現,開放貿易後市場上的商品種類減少, 但是消費者的效用提高。此一結果與Krugman (1979) 認為貿易可以增加商品的種類數目相反,也不符合傳統 「種類愈多效用愈高」 的結論。就關稅政策和限額政策做比較時本文的結果顯示,二種政策之下商品種類數目之相對高低視關稅與限額價格而定。在有效的限額管制之下,限額費率愈低市場上的商品種類愈少;然而不論商品種類多寡, 消費者的效用恆等於關稅之下的水準。此一結論與 Young and Anderson (1980) 認為關稅政策之下的消費者福利較高明顯不同。在本文架構下, 關稅與限額二種政策的均等性在總合價格、消費者剩餘和國內產業利潤等方面都會成立。</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><ul>
+<li>異質廠商</li>
+<li>進口限制均等性</li>
+</ul>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>吳芝文、李玫郁， 2009，「異質廠商，獨佔性競爭與貿易政策」，經濟論文叢刊，第37卷，第213-234頁。</p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>General Election, Political Change and Market Efficiency</title>
+    <url>/2008-09-journal-paper/</url>
+    <content><![CDATA[<h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>General Election, Political Change and Market Efficiency: Long- and Short-term Perspective in Developed Stock Market</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li>Yi-Hsien Wang, Department of Finance, Yuanpei University, No. 306, Yuanpei St. Hsin Chu 30015, Taiwan</li>
+<li>Mei-Yu Lee, Department of Finance, Yuanpei University, No. 306, Yuanpei St. Hsin Chu 30015, Taiwan</li>
+<li>Che-Yang Lin, Department of Finance, Yuanpei University, No. 306, Yuanpei St. Hsin Chu 30015, Taiwan</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Journal-name"><a href="#Journal-name" class="headerlink" title="Journal name"></a>Journal name</h1><p>Journal of Money, Investment and Banking (EconLit)</p>
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>This paper utilized event study and panel data to examine the effects of general election and political change in developed stock market. The analytical results demonstrate that there is inverse information during the campaign. Furthermore, the results provide<br>evidences that political change was originally intended as an incumbent party impetus to create opportunities for progress. This has caused great political party distress, creating political change with an inverse stock market relationship in developed countries.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><ul>
+<li>Event Study</li>
+<li>Panel Data</li>
+<li>GARCH</li>
+<li>General Election</li>
+<li>Market Efficiency</li>
+</ul>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Yi-Hsien Wang, Mei-Yu Lee and Che-Yang Lin, 2008, General Election, Political Change and Market Efficiency: Long- and Short-term Perspective in Developed Stock Market, <em>Journal of Money, Investment and Banking</em>, No. 3, 58-67. </p>
+<h1 id="View"><a href="#View" class="headerlink" title="View"></a>View</h1><p><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxteWxlZTkwMHxneDozMzAyNmZhMjNhYzI0NGI3">Download</a></p>
+]]></content>
+      <categories>
+        <category>Journal papers</category>
+      </categories>
+      <tags>
+        <tag>GARCH model</tag>
+        <tag>Event Study</tag>
+        <tag>Market Efficiency</tag>
+      </tags>
+  </entry>
+</search>

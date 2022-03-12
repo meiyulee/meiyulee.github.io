@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.0.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Roboto&display=swap/css?family=Robato:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css" integrity="sha256-jTIdiMuX/e3DGJUGwl3pKSxuc6YOuqtJYkM0bGQESA4=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/themes/blue/pace-theme-minimal.css">
+  <script src="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"meiyulee.github.io","root":"/","images":"/images","scheme":"Pisces","darkmode":false,"version":"8.10.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="TitleAccurate Model on Exchange Rate Volatility of Taiwan: An Approach of Intelligent Selection on Regression Models Authors Hsien-Wen Liao, China University of Technology, R.O.C. Yi-Shin Lin, Huizhou">
+<meta property="og:type" content="article">
+<meta property="og:title" content="model building on exchange rate volatility">
+<meta property="og:url" content="https://meiyulee.github.io/2021-07-conference-paper/index.html">
+<meta property="og:site_name" content="Mei-Yu&#39;s Website">
+<meta property="og:description" content="TitleAccurate Model on Exchange Rate Volatility of Taiwan: An Approach of Intelligent Selection on Regression Models Authors Hsien-Wen Liao, China University of Technology, R.O.C. Yi-Shin Lin, Huizhou">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2021-07-17T09:00:00.000Z">
+<meta property="article:modified_time" content="2022-03-11T13:17:30.064Z">
+<meta property="article:author" content="Mei-Yu Lee">
+<meta property="article:tag" content="exchange rate volatility">
+<meta property="article:tag" content="intelligent model selection">
+<meta property="article:tag" content="Heteroscedasticity">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://meiyulee.github.io/2021-07-conference-paper/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://meiyulee.github.io/2021-07-conference-paper/","path":"2021-07-conference-paper/","title":"model building on exchange rate volatility"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>model building on exchange rate volatility | Mei-Yu's Website</title>
+  
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">Mei-Yu's Website</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">Works and Research life</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a></li>
+        <li class="menu-item menu-item-sitemap"><a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>Sitemap</a></li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Title"><span class="nav-number">1.</span> <span class="nav-text">Title</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Authors"><span class="nav-number">2.</span> <span class="nav-text">Authors</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Abstract"><span class="nav-number">3.</span> <span class="nav-text">Abstract</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Keywords"><span class="nav-number">4.</span> <span class="nav-text">Keywords</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Citation"><span class="nav-number">5.</span> <span class="nav-text">Citation</span></a></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Mei-Yu Lee"
+      src="/images/avatar.gif">
+  <p class="site-author-name" itemprop="name">Mei-Yu Lee</p>
+  <div class="site-description" itemprop="description">What I am intersted in</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">15</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">22</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/meiyulee" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;meiyulee" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:mylee0989@gmail.com" title="E-Mail → mailto:mylee0989@gmail.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/mylee0989" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;mylee0989" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.facebook.com/meiyulee.tw" title="FB Page → https:&#x2F;&#x2F;www.facebook.com&#x2F;meiyulee.tw" rel="noopener" target="_blank"><i class="fab fa-facebook fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://t.me/meiyulee" title="Telegram → https:&#x2F;&#x2F;t.me&#x2F;meiyulee" rel="noopener" target="_blank"><i class="fab fa-telegram fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://linevoom.line.me/user/_dUTJ_dKeqj1Tl8_IxzQ8MAxT06FRq4xX0PKqQ1k" title="line → https:&#x2F;&#x2F;linevoom.line.me&#x2F;user&#x2F;_dUTJ_dKeqj1Tl8_IxzQ8MAxT06FRq4xX0PKqQ1k" rel="noopener" target="_blank"><i class="fab fa-line fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.raddit.com/r/probablitysimulator/" title="Reddit → https:&#x2F;&#x2F;www.raddit.com&#x2F;r&#x2F;probablitysimulator&#x2F;" rel="noopener" target="_blank"><i class="fab fa-reddit fa-fw"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.tiktok.com/@mylee0989" title="TikTok → https:&#x2F;&#x2F;www.tiktok.com&#x2F;@mylee0989" rel="noopener" target="_blank"><i class="fab fa-tiktok fa-fw"></i></a>
+      </span>
+  </div>
+
+
+
+        </div>
+      </div>
+        <div class="back-to-top animated" role="button" aria-label="Back to top">
+          <i class="fa fa-arrow-up"></i>
+          <span>0%</span>
+        </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="reading-progress-bar"></div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://meiyulee.github.io/2021-07-conference-paper/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Mei-Yu Lee">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Mei-Yu's Website">
+      <meta itemprop="description" content="What I am intersted in">
+    </span>
+    
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="model building on exchange rate volatility | Mei-Yu's Website">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          model building on exchange rate volatility
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+
+      <time title="Created: 2021-07-17 17:00:00" itemprop="dateCreated datePublished" datetime="2021-07-17T17:00:00+08:00">2021-07-17</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">Edited on</span>
+      <time title="Modified: 2022-03-11 21:17:30" itemprop="dateModified" datetime="2022-03-11T21:17:30+08:00">2022-03-11</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/conference/" itemprop="url" rel="index"><span itemprop="name">Conference papers</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="Symbols count in article">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">Symbols count in article: </span>
+      <span>1.5k</span>
+    </span>
+    <span class="post-meta-item" title="Reading time">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">Reading time &asymp;</span>
+      <span>3 mins.</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <h1 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h1><p>Accurate Model on Exchange Rate Volatility of Taiwan: An Approach of Intelligent Selection on Regression Models</p>
+<h1 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h1><ul>
+<li>Hsien-Wen Liao, China University of Technology, R.O.C.</li>
+<li>Yi-Shin Lin, Huizhou University, P.R.C.</li>
+<li>Mei-Yu Lee, Minghsin University of Science and Technology, R.O.C.</li>
+</ul>
+<span id="more"></span>
+
+<h1 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h1><p>This paper aims to find out the volatility of exchange rates according to running numerous mathematical models containing three parts of the estimations on the expected value, heteroscedasticity, and autocorrelation. Artificial intelligence in the estimation process determines the best model on the criterion of the minimum mean-squared-error. The main results show that the intelligent selection approach on regression models is the best tool that we can seek to solve the misspecification of the model form and get more accurate volatility of exchange rates represented by heteroscedasticity. Second, the economic stages can be classified depending on the heteroscedastic estimation of USD&#x2F;TWD. Moreover, heteroscedasticity shows that the volatilities of the appreciation at economic stages after 2015 are different from the past. In sum, heteroscedasticity in the best estimation can show more exact volatilities on the pattern and what happened in the exchange rates on different economic stages automatically.</p>
+<h1 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h1><p>Intelligent selection approach, exchange rate volatility, regression model, and heteroscedasticity.</p>
+<h1 id="Citation"><a href="#Citation" class="headerlink" title="Citation"></a>Citation</h1><p>Hsien-Wen Liao, Yi-Shin Lin, Mei-Yu Lee*, “Accurate Model on Exchange Rate Volatility of Taiwan: An Approach of Intelligent Selection on Regression Models,” The 2021 International Conference in Management Sciences and Decision Making, Taiwan: TamKang University, July 17, 2021.</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>Post author:  </strong>Mei-Yu Lee
+  </li>
+  <li class="post-copyright-link">
+      <strong>Post link: </strong>
+      <a href="https://meiyulee.github.io/2021-07-conference-paper/" title="model building on exchange rate volatility">https://meiyulee.github.io/2021-07-conference-paper/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> unless stating additionally.
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/exchange-rate-volatility/" rel="tag"># exchange rate volatility</a>
+              <a href="/tags/intelligent-model-selection/" rel="tag"># intelligent model selection</a>
+              <a href="/tags/Heteroscedasticity/" rel="tag"># Heteroscedasticity</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2014-06-journal-paper/" rel="prev" title="The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property">
+                  <i class="fa fa-chevron-left"></i> The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/2021-12-journal-paper-precise-estimation/" rel="next" title="Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data">
+                  Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2022</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Mei-Yu Lee</span>
+</div>
+<div class="wordcount">
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-chart-line"></i>
+    </span>
+    <span title="Symbols count total">24k</span>
+  </span>
+  <span class="post-meta-item">
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">43 mins.</span>
+  </span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/pisces/" rel="noopener" target="_blank">NexT.Pisces</a>
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@next-theme/pjax@0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
+
+  
+
+
+
+
+  <script src="/js/third-party/pace.js"></script>
+
+  
+
+
+
+
+  
+
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js","integrity":"sha256-r+3itOMtGGjap0x+10hu6jW/gZCzxHsoKrOd7gyRSGY="}}</script>
+<script src="/js/third-party/math/mathjax.js"></script>
+
+
+
+</body>
+</html>
