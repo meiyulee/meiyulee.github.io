@@ -1,6 +1,6 @@
 ---
 title: "Central limit theorem"
-layout: sigle-protfolio
+layout: single-protfolio
 excerpt: "CLT<br/><img src='/images/500x300.png'>"
 collection: projects
 order_number: 10
@@ -41,8 +41,3 @@ order_number: 10
 
 ## Workings
 
-{% include base_path %}
-
-{% assign ordered_pages = site.CLT | sort:"order_number" %}
-
-{% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}
