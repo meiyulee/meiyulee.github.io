@@ -41,4 +41,8 @@ order_number: 10
 
 ## Workings
 
-{% for post in site.CLT %} {% include archive-single-cv.html %} {% endfor %}
+{% include base_path %}
+
+{% assign ordered_pages = site.CLT | sort:"order_number" %}
+
+{% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}
