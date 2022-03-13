@@ -15,7 +15,7 @@ categories:
 ---
 
 
-# Title
+## Title
 The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation
 
 # Authors
