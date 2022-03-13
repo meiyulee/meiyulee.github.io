@@ -2,7 +2,7 @@
 title: 'Central limit theorem on Rayleigh distribution'
 date: 2022-03-10 11:20:20
 permalink: /posts/2022/03/CLT-Rayeigh/
-excerpt_separator: <!--more-->
+excerpt_separator: '<!--more-->'
 toc: true
 tags:
   - Central limit theorem
