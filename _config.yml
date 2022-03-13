@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mei-Yu Lee / Works and Research life"
+title                    : "Works and Research life"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
