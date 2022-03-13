@@ -3,7 +3,7 @@ title: "Central limit theorem"
 layout: single-protfolio
 excerpt: "CLT<br/><img src='/images/CLT.png'>"
 collection: projects
-order_number: 60
+order_number: 1
 ---
 
 # Central limit theorem of 28 probability distributions using the probability distribution simulator
