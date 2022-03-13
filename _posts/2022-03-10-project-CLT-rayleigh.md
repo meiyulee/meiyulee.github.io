@@ -13,7 +13,7 @@ tags:
 > This is the project of Central limit theorem, Case 7: Rayleigh distribuiton.
 > Seek the coorperation to write papers. [Mailing me](mailto:mylee0989@gmail.com).
 
-<!-- more -->
+<!--more-->
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/STO4eJokX2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
