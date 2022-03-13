@@ -12,17 +12,16 @@ tags:
   - Computer simulation
 categories:
   - Journal papers
+excerpt: '<!-- more -->'
 ---
 
-
+<!-- more -->
 ## Title
 The Pattern of R-Square in Linear Regression Model with First-Order Autoregressive Error Process and Bayesian property: Computer Simulation
 
 # Authors
 
 - **Mei-Yu Lee**, Department of Applied Financial Management, Yuanpei University, Taiwan
-
-<!-- more -->
 
 # Journal name
 
