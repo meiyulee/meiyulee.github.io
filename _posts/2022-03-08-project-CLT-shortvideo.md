@@ -2,7 +2,7 @@
 title: 'Problem of Central limit theorem for the practices and applications'
 date: 2022-03-08 11:20:20
 permalink: /posts/2022/03/CLT-problem/
-excerpt_separator: <!-- more -->
+excerpt_separator: 'Read more <!--more-->'
 toc: true
 tags:
   - Central limit theorem
@@ -13,7 +13,7 @@ tags:
 
 > Seek the coorperation to write papers. [Mailing me](mailto:mylee0989@gmail.com).
 
-<!-- more -->
+<!--more-->
 
 
 # Why we do - CLT problems
