@@ -7,6 +7,11 @@ toc: true
 tags:
   - Central limit theorem
   - Probability distribuiton simulator
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 
 > Summarize our project work in progress.
