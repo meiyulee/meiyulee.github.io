@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Works and Research life"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mei-Yu Lee"
+description              : &description "Assistant Professor"
 url                      : https://meiyulee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "meiyulee/meiyulee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mei-Yu Lee"
   avatar           : "profile.png"
-  bio              : "This is about my experience. I hope to let everyone know me better."
-  location         : "Location"
+  bio              : "Assistant Professor"
+  location         : "Taiwan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e7Eh6vQAAAAJ"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "meiyulee"
   orcid            : "http://orcid.org/0000-0002-1422-7551"
   pinterest        :
   soundcloud       :
