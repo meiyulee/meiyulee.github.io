@@ -1,11 +1,14 @@
 ---
 title: "Central limit theorem"
+layout: single-portfolio
 excerpt: "CLT<br/><img src='/images/CLT.png'>"
 collection: projects
 order_number: 1
+header: 
+    og_image: "/images/CLT.png"
 ---
 
-# Central limit theorem of 28 probability distributions using the probability distribution simulator
+## Central limit theorem of 28 probability distributions using the probability distribution simulator
 
 > Some cases has been published on [YouTube](https://www.youtube.com/watch?v=7tbThx6Lo5s&list=PLGIquq4uoXLW1n8dU9P_NhmXrVvlU5iE2). Video is better to show the results because there are too many results for each case and this needs to exhibit the Central Limit Theorem property.
 
