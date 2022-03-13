@@ -1,6 +1,5 @@
 ---
 title: "Central limit theorem"
-layout: single-protfolio
 excerpt: "CLT<br/><img src='/images/CLT.png'>"
 collection: projects
 order_number: 1
