@@ -5,6 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 
 {% include base_path %}

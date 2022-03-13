@@ -6,6 +6,11 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 
 > This is about my experience. I hope to let everyone know me better.

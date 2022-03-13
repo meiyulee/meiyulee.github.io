@@ -14,5 +14,10 @@ tags:
   - Intelligent model selection
 excerpt: '<!-- more -->'
 indexing: "SCIE"
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 

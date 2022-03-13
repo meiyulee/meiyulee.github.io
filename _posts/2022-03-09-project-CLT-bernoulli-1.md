@@ -8,6 +8,11 @@ tags:
   - Central limit theorem
   - Probability distribuiton simulator
   - Bernoulli distribution
+sitemap:
+  lastmod: 2022-03-09
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 
 > Fatal errors pierce into results of the opinion polls while set p = 0.5 and use the property of thecentral limit theorem since (1) the approximating continuous distribution does not mean the "real" continuous distribution, (2) the minimal sample size of the central limit theorem does not be tested, but the theorem is applied, and (3) there is no test for the probability under the specific p and sample size. 

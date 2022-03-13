@@ -7,6 +7,11 @@ date: 2008-09-01
 venue: 'Journal of Money, Investment and Banking'
 paperurl: 'https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxteWxlZTkwMHxneDozMzAyNmZhMjNhYzI0NGI3'
 citation: 'Yi-Hsien Wang, Mei-Yu Lee and Che-Yang Lin, 2008, General Election, Political Change and Market Efficiency: Long- and Short-term Perspective in Developed Stock Market,&quot; <i>Journal of Money, Investment and Banking</i>, No. 3, 58-67.'
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 
 

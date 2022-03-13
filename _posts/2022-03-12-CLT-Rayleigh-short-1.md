@@ -8,6 +8,11 @@ tags:
   - Central limit theorem
   - Probability distribuiton simulator
   - Rayleigh distribuiton
+sitemap:
+  lastmod: 2022-03-12
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 
 

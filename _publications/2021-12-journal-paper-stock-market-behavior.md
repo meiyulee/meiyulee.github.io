@@ -13,5 +13,10 @@ tags:
   - Stock Market Behavior
 excerpt: '<!-- more -->'
 indexing: "EconLit"
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 

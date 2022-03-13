@@ -4,6 +4,11 @@ title: 擇時、四四三三法則與貝它避險策略下基金之績效分析-
 date: 2011-12-01 11:20:20
 categories:
   - Journal papers
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 
 # Title

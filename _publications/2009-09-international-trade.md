@@ -9,6 +9,11 @@ link: 'http://academicpages.github.io/files/paper2.pdf'
 citation: '吳芝文、李玫郁， 2009，「異質廠商，獨佔性競爭與貿易政策」，經濟論文叢刊，第37卷，第213-234頁。'
 categories:
   - Journal papers
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
 
 
