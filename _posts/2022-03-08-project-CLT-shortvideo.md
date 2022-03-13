@@ -52,7 +52,7 @@ Central limit theorem is the wide and usefull thoerem of the staitical analysis,
 
 This is the short video to summary the work.
 
-{% youtube 7tbThx6Lo5s %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tbThx6Lo5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
