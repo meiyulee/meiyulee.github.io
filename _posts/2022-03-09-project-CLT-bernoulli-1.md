@@ -15,7 +15,6 @@ tags:
 > This post shows the evidecne at the case of p = 0.5. Mail me to obtain more evidence of other p.
 > Seek the coorperation to write papers. [Mailing me](mailto:mylee0989@gmail.com).
 
-Click the title to read more.
 
 <!--more-->'
 
