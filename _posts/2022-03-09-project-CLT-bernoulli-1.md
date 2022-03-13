@@ -2,7 +2,7 @@
 title: 'Fatal problem of using the public opinion polls or questionnaires'
 date: 2022-03-09 11:20:20
 permalink: /posts/2022/03/CLT-Bernoulli-short-1/
-excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->'
 toc: true
 tags:
   - Central limit theorem
@@ -15,7 +15,9 @@ tags:
 > This post shows the evidecne at the case of p = 0.5. Mail me to obtain more evidence of other p.
 > Seek the coorperation to write papers. [Mailing me](mailto:mylee0989@gmail.com).
 
-<!-- more -->
+Click the title to read more.
+
+<!--more-->'
 
 A population proportion test for opinion polls or questionnaires is based on Bernoulli distribution. Assuming that each random sample is independently and randomly drawing from Bernoulli distribution, the sum of random samples follows Binomial distribution and the central limit theorem guarantees that the sum of random samples approximates to Normal distribution.
 
