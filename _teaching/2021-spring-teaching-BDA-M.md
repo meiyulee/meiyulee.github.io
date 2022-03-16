@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/2020-spring-teaching-BDA-M
 venue: "Minghsin University of Science and Technology, DGraduate Institue of Management"
-date: 2020-02-13
+date: 2021-02-13
 location: "Hsinchu, Taiwan"
 ---
 
@@ -23,7 +23,7 @@ Futures
 
 
 
-Schadule
+Schedule
 ======
 
 | Week | Topics |
