@@ -34,21 +34,36 @@ You can learn relevant knowledge and technology from the works by my co-authors 
 
 # Publishions
 
-## Books
+## Books (in total of 9)
 
 - Demythologize Durbin-Watson test statistic, 2022, [Amazon.com](https://www.amazon.com/dp/B09QT7YF1S/).
+
 - Excel calucluating probablity distribution simulator, 2021,  [Amazon.com](https://www.amazon.com/dp/B09PFFN622).
+
+- Special Beta Distribution for Big Data Analysis: X ~ Beta(α = λ + 1, β = 2 -λ), 2021, [vixra](https://vixra.org/abs/2101.0082).
+
+- Multi Categories Analytic Method Using Continuous Bernoulli Distribution and Conditional Distribution, 2021, [vixra](https://vixra.org/abs/2101.0034).
+
+- The Continuous Bernoulli Approaching Distribution When λ → 0 and the Continuous Binomial Distribution, 2020, [vixra](https://vixra.org/abs/2012.0221).
+
+- Continuous Bernoulli Distribution-Simulator and Test Statistic, 2020, [vixra]( https://vixra.org/abs/2012.0088),[free-ebook.net](https://www.free-ebooks.net/computer-sciences-textbooks/Continuous-Bernoulli-distribution-simulator-and-test-statistic).
+
 - Statistics cannot be the tool of big data analysis: reasons and corrections, 2019, [books.com.tw](https://www.books.com.tw/products/0010844752). (Traditional Chinese version)
+
 - The formula of big data using Statistics: all probability distributions used, 2016, [e-book](https://www.researchgate.net/publication/309730839_tongjixuefenxidaziliaokudashujudegongshi---gezhongmutifenpeishiyong).(Traditional Chinese version)
+
 - Big Data Analysis Method, 2015, [e-book](http://dx.doi.org/10.13140/RG.2.1.2041.8723).
+
 - Big Data Analysis Method, 2015, [Pubu](https://www.pubu.com.tw/ebook/51486). (Traditional Chinese version)
 
 
 ## Journal papers in the recent five years
 
-- Ya-Chuan Chan, Yao-Hsin Lee*, Mei-Yu Lee, 2021, Stock Market behaviors among US, China and Taiwan, *Journal of Accounting, Finance & Management Strategy*, 16(2), 109-136. (EconLit)
-- Ya-Chuan Chan, Yao-Hsin Lee, Mei-Yu Lee*, 2021, Does COVID-19 Change the Relationship among Taiwan Stock Index Futures, MSCI Morgan Taiwan Index, and Taiwan Stock Price Index?, *Expert Journal of Economics*, 9(1), 18-33. (EconLit) 
-- Chih-Wen Hsiao, Ya-Chuan Chan*, Mei-Yu Lee, Hsi-Peng Lu, 2021, Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data: An Example of Taiwan Stock Index Futures before and during COVID-19, *Mathematics*, 9(21), 2719. (SCIE, IF=2.258, SCOPUS=2.2) 
+- Ya-Chuan Chan, Yao-Hsien Lee$^{*}$, Mei-Yu Lee, 2021, Stock Market behaviors among US, China and Taiwan, <i>Journal of Accounting, Finance & Management Strategy</i>, 16(2), 109-136. (EconLit)
+
+- Ya-Chuan Chan, Yao-Hsien Lee$^{*}$, Mei-Yu Lee, 2021, Does COVID-19 Change the Relationship among Taiwan Stock Index Futures, MSCI Morgan Taiwan Index, and Taiwan Stock Price Index?, <i>Expert Journal of Economics</i>, 9(1), 18-33. (EconLit) 
+
+- Chih-Wen Hsiao, Ya-Chuan Chan$^{*}$, Mei-Yu Lee, Hsi-Peng Lu, 2021, Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data: An Example of Taiwan Stock Index Futures before and during COVID-19, <i>Mathematics</i>, 9(21), 2719. (SCIE, IF=2.258, SCOPUS=2.2) 
 
 - 李玫郁、孔秀琴、呂英瑞，2020，「運用大數據分析方法估計失業人數與失業率」，台灣銀行季刊，第71卷第1期，第49-70頁。
 
@@ -68,7 +83,7 @@ You can learn relevant knowledge and technology from the works by my co-authors 
 
 # Research projects
 
-> Seek the job or cooperation from university, research center or others.
+> Seek the job or cooperation from university, research center or others. Please feel free to contact me.
 
 ## Central limit theorem of 28 probability distributions using the probability distribution simulator
 
@@ -103,7 +118,23 @@ You can learn relevant knowledge and technology from the works by my co-authors 
 - Case 27, The population distribution ~ Semicircle distribution
 - Case 28, The population distribution ~ Discrete Uniform distribution
 
-## Teaching of Probablity distribution simulator
+## Economic applications using the probability distribution simulator
+
+- Demand-supply model
+- consumer theory
+- firm theory
+- game theory
+
+## Accurate data-driven model building 
+
+- Economic data
+- Financial data
+- Sales data
+- Crime data
+
+## Teaching of Probablity distribution simulator 
+
+academic, education, programming, certificate
 
 ### Basic:
 - Part 1: Introduce the random variable, probaiblity, probabilty distribution, sampling distribution
@@ -121,17 +152,10 @@ You can learn relevant knowledge and technology from the works by my co-authors 
 - Part 9: Design probability models
 - Part 10: Design statistic models
 
-## Economic applications using the probability distribution simulator
+## Teaching of decision for AI analaysis (Bayesian theorem method)
 
-- Demand-supply model
-- consumer theory
-- firm theory
-- game theory
-
-## Accurate data-driven model building
-
-- Economic data
-- Financial data
-- Sales data
-- Crime data
-
+- Introduce the probability: marignal probability, joint probability, conditional probability
+- How to calculate the frequency of the text data
+- How to calculate the frequency of the number data
+- How to run the software to find the regularities of data on the criterion of the maximum probability, minimum probability, the median, the average.
+- Interprete data results.
