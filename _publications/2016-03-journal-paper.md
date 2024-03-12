@@ -3,7 +3,7 @@ title: "On the Durbin-Watson Statistic Based on a Z-Test in Large Samples"
 collection: publications
 permalink: /publication/2016-03-journal-paper
 venue: 'International Journal of Computational Economics and Econometrics'
-link: 'https://www.inderscience.com/info/inarticle.php?artid=73370'
+link: 'https://dx.doi.org/10.1504/IJCEE.2016.073370'
 citation: 'Mei-Yu Lee, 2016, On the Durbin-Watson Statistic Based on a Z-Test in Large Samples, <i>International Journal of Computational Economics and Econometrics</i>, 6(1), 114-121.'
 date: 2016-03-01 11:20:20
 categories:
