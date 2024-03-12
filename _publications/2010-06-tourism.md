@@ -11,6 +11,7 @@ tags:
   - Computer simulation
 categories:
   - Journal papers
+excerpt: 'Traditional Chinese version <!-- more -->'
 sitemap:
   lastmod: 2022-03-08
   priority: 0.7
