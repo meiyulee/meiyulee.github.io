@@ -1,10 +1,25 @@
 ---
-layout: true
-title: Economic and Environmental Effects of Refill Packs
+title: "Economic and Environmental Effects of Refill Packs"
+collection: publications
+permalink: /publication/2012-12-journal-paper
+venue: 'Bulletin of Economic Research'
+link: 'http://hdl.handle.net/10.1111/j.1467-8586.2010.00384.x'
+citation: 'Hu, Jin-Li, Ming-Chung Chang, and Mei-Yu Lee, 2012, Economic and Environmental Effects of Refill Packs, *Bulletin of Economic Research*, 64(4), 581-592.'
 date: 2012-12-01 11:20:20
 categories:
   - Journal papers
+tags:
+  - durable goods
+  - refill packs
+excerpt: '<!-- more -->'
+indexing: "EconLit"
+sitemap:
+  lastmod: 2022-03-08
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 ---
+
 
 # Title
 Economic and Environmental Effects of Refill Packs
@@ -27,6 +42,8 @@ It is common sense that refill packs can increase the repeated use of durable go
 
 # Keywords
 
+- durable goods
+- refill packs
 
 # Citation
 
