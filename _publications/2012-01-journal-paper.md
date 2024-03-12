@@ -13,6 +13,7 @@ tags:
   - Network effect
   - Production mode
 excerpt: '<!-- more -->'
+indexing: "EI"
 sitemap:
   lastmod: 2022-03-16
   priority: 0.7
